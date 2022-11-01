@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IngresoContenedores</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Perfiles1</string>
+    <string name="menu_perfiles">Perfiles</string>
+
+    <!-- vista registro-->
+    <string name="nue_Registro">Registro vehículo</string>
+    <string name="invalid_fecha">Ingrese una fecha valida</string>
+    <string name="invalid_placa">Ingrese la placa del vehículo</string>
+    <string name="invalid_audit">Ingrese el nombre del auditor</string>
+    <string name="invalid_fotoPlaca">capture foto de la Placa del vehículo</string>
+    <string name="invalid_fotoContenedor">Capture la foto del contenedor</string>
+    <string name="invalid_fotoSello">capture la foto del sello</string>
+</resources>

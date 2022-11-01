@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--buscar elemento-->
+
+    <!--Eliminar todos los elementos
+    <item android:id="@+id/action_sort"
+        android:title="ordenar"
+        android:icon="@drawable/sort"
+        app:showAsAction="always">
+    </item>-->
+
+    <item android:id="@+id/search"
+        android:title="Eliminar Todos los Registros"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always"
+        app:actionViewClass="androidx.appcompat.widget.SearchView">
+    </item>
+
+
+    <!--Cerrar Sesión-->
+    <item android:id="@+id/logoout"
+        android:title="Eliminar Todos los Registros"
+        android:icon="@drawable/logout"
+        app:showAsAction="always">
+    </item>
+</menu>

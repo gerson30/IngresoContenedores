@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".IngresoVehiculo">
+
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="272dp"
+            android:layout_height="152dp"
+            android:layout_marginTop="32dp"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.496"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+
+            <EditText
+                android:id="@+id/txt_FechaIngreso"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#009688"
+                android:ems="10"
+                android:hint="fecha"
+                android:inputType="textPersonName"
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:visibility="invisible" />
+
+            <EditText
+                android:id="@+id/txt_Placa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#009688"
+                android:ems="10"
+                android:hint="Placa Vehículo"
+                android:inputType="textPersonName"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/txt_NombreAudit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#009688"
+                android:ems="10"
+                android:hint="Nombre Auditor"
+                android:inputType="textPersonName"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="183dp"
+            android:layout_height="203dp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="114dp"
+                android:layout_height="wrap_content"
+                android:text="Foto placa"
+                android:textAlignment="center"
+                android:textColor="@color/AzulOncor"
+                android:textSize="10sp" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/btn_FotoPlaca"
+                android:layout_width="106dp"
+                android:layout_height="48dp"
+                android:backgroundTint="@color/AzulOncor"
+                android:src="@drawable/addphoto"
+                android:text="Foto placa" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="112dp"
+                android:layout_height="wrap_content"
+                android:text="Foto Contenedor"
+                android:textAlignment="center"
+                android:textColor="@color/AzulOncor"
+                android:textSize="10sp" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/btn_FotoContenedor"
+                android:layout_width="106dp"
+                android:layout_height="51dp"
+                android:backgroundTint="@color/AzulOncor"
+                android:src="@drawable/addphoto"
+                android:text="Foto contenedor" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="117dp"
+                android:layout_height="15dp"
+                android:text="Foto Sello"
+                android:textAlignment="center"
+                android:textColor="@color/AzulOncor"
+                android:textSize="10sp" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/btn_FotoSello"
+                android:layout_width="106dp"
+                android:layout_height="51dp"
+                android:backgroundTint="@color/AzulOncor"
+                android:ems="5"
+                android:src="@drawable/addphoto"
+                android:text="foto sello" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="150dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="68dp"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout3"
+            app:layout_constraintVertical_bias="0.0">
+
+            <Button
+                android:id="@+id/btn_Guardar"
+                android:layout_width="144dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/VerdeOncor"
+                android:text="Guardar" />
+
+        </LinearLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

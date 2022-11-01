@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.196" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable-anydpi/ic_more_information.xml" value="0.3385" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2115" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable/ac.xml" value="0.3045" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable/diseno_boton.xml" value="0.357" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable/diseno_boton_borde.xml" value="0.2635" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable/forma_rectangle_vistas.xml" value="0.2585" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable/ic_image_not.xml" value="0.196" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_detalle_registro.xml" value="0.25" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_editar.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_editarperfil.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_main.xml" value="0.46494464944649444" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_mostrar_perfil.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_perfiles.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_registrar_usuario.xml" value="0.9" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_registro.xml" value="0.33" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_registro_usuario.xml" value="0.25" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/activity_usuarios.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/app_bar_main.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/content2.xml" value="0.4282238442822384" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/dialog_eliminar.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/fragment_gallery.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/fragment_perfiles.xml" value="0.25" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/fragment_registroperfiles.xml" value="0.25" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/fragment_registrousuarios.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/fragment_slideshow.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/nav_header_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/registro_Usuario_fila.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/registro_fila.xml" value="0.33" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/registro_registroperfilfila.xml" value="0.47368421052631576" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/layout/registro_usuariofila.xml" value="0.33" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/menu/main.xml" value="0.33" />
+        <entry key="..\:/Users/gersonjimenez/AndroidStudioProjects/IngresoContenedores/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
